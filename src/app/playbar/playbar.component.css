@@ -1,0 +1,8 @@
+.playbar-container{
+    width: 100vw;
+    height: var(--playbar-container-height);
+    background-color: red;
+
+    position: absolute;
+    bottom: 0px;
+}

@@ -1,0 +1,27 @@
+.navbar-container {
+    width: 100vw;
+    height: var(--playbar-container-height);
+
+    box-shadow: 2px 2px 2px #ccc;
+
+    display: flex;
+    align-items: center;
+
+}
+
+.navbar-logo{
+    width:100px;
+    height: 100%;
+    margin-right: 2rem;
+    background-color: red;
+}
+
+.navbar-menu{
+    flex: 1;
+    display: flex;
+    
+}
+
+.navbar-menu-item{
+    margin: 0 2rem;
+}
